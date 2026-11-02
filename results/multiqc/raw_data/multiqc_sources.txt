@@ -1,0 +1,3 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	SRR31155591_1_sub	/home/airibarra/proyecto-qc/results/fastqc_raw/SRR31155591_1_sub_fastqc.zip
+FastQC	all_sections	SRR31155591_2_sub	/home/airibarra/proyecto-qc/results/fastqc_raw/SRR31155591_2_sub_fastqc.zip

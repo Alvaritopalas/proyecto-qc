@@ -1,0 +1,8 @@
+
+/// MultiQC 🔍 v1.35
+
+       file_search | Search path: /home/airibarra/proyecto-qc/results/fastqc_raw
+            fastqc | Found 2 reports
+     write_results | Data        : results/multiqc/raw_data   (overwritten)
+     write_results | Report      : results/multiqc/raw.html   (overwritten)
+           multiqc | MultiQC complete

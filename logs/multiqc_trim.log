@@ -1,0 +1,8 @@
+
+/// MultiQC 🔍 v1.35
+
+       file_search | Search path: /home/airibarra/proyecto-qc/results/fastqc_trimmed
+            fastqc | Found 2 reports
+     write_results | Data        : results/multiqc/trimmed_data   (overwritten)
+     write_results | Report      : results/multiqc/trimmed.html   (overwritten)
+           multiqc | MultiQC complete

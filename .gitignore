@@ -2,3 +2,5 @@
 *.fastq.gz
 data/raw/
 data/trimmed/
+SRR31155591/
+*.sra

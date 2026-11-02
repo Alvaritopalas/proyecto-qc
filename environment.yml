@@ -1,0 +1,10 @@
+name: qc_env
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - sra-tools=3.4.1
+  - seqkit=2.14.0
+  - fastqc=0.13.0
+  - multiqc=1.35
+  - fastp=0.23.4

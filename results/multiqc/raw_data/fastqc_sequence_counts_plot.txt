@@ -1,0 +1,3 @@
+Sample	Unique Reads	Duplicate Reads
+SRR31155591_1_sub	280248.0	19752.0
+SRR31155591_2_sub	284797.0	15203.0
