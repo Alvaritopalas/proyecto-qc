@@ -1,0 +1,4 @@
+*.fastq
+*.fastq.gz
+data/raw/
+data/trimmed/
