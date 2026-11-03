@@ -13,7 +13,7 @@ Repositorio: https://github.com/Alvaritopalas/proyecto-qc
 5. Imprime la tabla antes/despues con `seqkit stats`.
 
 ## Como ejecutarlo (desde la raiz del repo, sin SLURM)
-Copia y pega directamente en tu termina de linux:
+Copia y pega directamente en tu terminal de linux:
 ```bash
 git clone https://github.com/Alvaritopalas/proyecto-qc.git && cd proyecto-qc
 mamba env create -f environment.yml
